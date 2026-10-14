@@ -1,0 +1,5 @@
+n = 10000
+repetitions = 200
+alpha = 0.3
+seed = 20261014
+R version 4.3.3 (2024-02-29)
