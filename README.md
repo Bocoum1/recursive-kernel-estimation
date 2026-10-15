@@ -51,8 +51,5 @@ La précision dépend du noyau, du point étudié et de la fenêtre. Une simulat
 - Une courbe à une taille d'échantillon donnée ne prouve ni la convergence presque sûre ni la normalité asymptotique. Ces propriétés relèvent des résultats théoriques et de leurs hypothèses.
 - Les effets de bord et les zones où une densité estimée est faible demandent une attention particulière. Le script ne constitue pas une bibliothèque statistique générale.
 
-## Attribution et périmètre
-
-L'étude et le notebook sont cosignés. La couche de vérification et le README ont été ajoutés pour rendre la publication plus facilement contrôlable. Les données sont simulées ; aucun fichier de laboratoire, CV, consigne pédagogique ou copie d'article tiers n'est distribué.
-
-Référence étudiée : Bernard Bercu, Sami Capderou et Gilles Durrieu, [*Nonparametric recursive estimation of the derivative of the regression function with application to sea shores water quality*](https://doi.org/10.1007/s11203-017-9169-1). Il s'agit ici de simulations, **pas d'une analyse de données de qualité de l'eau**.
+## Reférences
+Référence étudiée : Bernard Bercu, Sami Capderou et Gilles Durrieu, [*Nonparametric recursive estimation of the derivative of the regression function with application to sea shores water quality*](https://doi.org/10.1007/s11203-017-9169-1)..
